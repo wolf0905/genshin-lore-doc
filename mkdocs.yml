@@ -1,6 +1,10 @@
 site_name: Genshin Lore Docs
 theme:
   name: material
+  features:
+   - navigation.tabs
+   - navigation.tabs.sticky
+   - navigation.indexes
   palette:
     # Palette toggle for dark mode
     - scheme: slate
@@ -10,8 +14,24 @@ theme:
     # Palette toggle for light mode
     - scheme: default
       toggle:
-        icon: material/brightness-7 
+        icon: material/brightness-7
         name: Switch to dark mode
 nav:
-  - Home: index.md
-  - About: about.md
+  - 'Home': 'index.md'
+  - 'Books':
+    - 'books/index.md'
+    - 'Inazuma':
+      - 'books/Inazuma/The_Byakuyakoku_Collection.md'
+    - 'Fontaine':
+      - 'books/Fontaine/Perinheri.md'
+  - 'About': 'about.md'
+markdown_extensions:
+  - admonition
+extra_css:
+  - stylesheets/extra.css
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/wolf0905/genshin-lore-doc
+repo_url: https://github.com/wolf0905/genshin-lore-doc
+repo_name: genshin-lore-doc
