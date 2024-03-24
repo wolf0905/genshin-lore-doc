@@ -200,7 +200,7 @@ Watatsumi Omikami forbade people from spreading this riddle.
 Appendix: Historical Figures, Their Traditional Names, and Narukami-Style Renderings
 
 Kairos — Tokoyo Ookami  
-...Eris — Arisu
+...Eris — Arisu  
 Abrax — Aberaku  
 Charon — Ka...  
 Spartacus — Supada  
