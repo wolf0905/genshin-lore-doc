@@ -1,6 +1,6 @@
 # The Byakuyakoku Collection
 
-![Book Image](/img/Book_Byakuyakoku.webp)
+![Book Image](/genshin-lore-doc/img/Book_Byakuyakoku.webp)
 
 ## Vol. 1 - The Serpent and Drakes of Tokoyokoku
 

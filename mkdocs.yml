@@ -1,4 +1,5 @@
 site_name: Genshin Lore Docs
+site_url: https://wolf0905.github.io/genshin-lore-doc/
 theme:
   name: material
   features:
