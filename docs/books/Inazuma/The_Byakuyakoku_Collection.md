@@ -1,5 +1,7 @@
 # The Byakuyakoku Collection
 
+![Book Image](/img/Book_Byakuyakoku.webp)
+
 ## Vol. 1 - The Serpent and Drakes of Tokoyokoku
 
 !!! note
