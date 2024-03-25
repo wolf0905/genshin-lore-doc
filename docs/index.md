@@ -8,4 +8,4 @@ hide:
 
 ## Main Sections
 
-* [Books](books/)
+* [Books](books/index.md)

@@ -1,6 +1,6 @@
 # Perinheri  
 
-![Book image](/genshin-lore-doc/img/Book_Perinheri.webp)
+![Book image](../../img/Book_Perinheri.webp)
   
 ## Vol. 1  
 !!! note  
