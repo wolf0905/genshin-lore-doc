@@ -1,3 +1,8 @@
+---
+title: The Byakuyakoku Collection
+image: img/Book_Byakuyakoku.webp
+---
+
 # The Byakuyakoku Collection
 
 ![Book Image](../../img/Book_Byakuyakoku.webp)
