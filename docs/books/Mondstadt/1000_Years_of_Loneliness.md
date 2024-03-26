@@ -3,9 +3,9 @@ title: 1000 Years of Loneliness
 image: img/books/Mondstadt/Book_1000_Years_of_Loneliness.webp
 ---
 
-![Book Image](../../img/books/Mondstadt/Book_1000_Years_of_Loneliness.webp)
-
 # 1000 Years of Loneliness  
+
+![Book Image](../../img/books/Mondstadt/Book_1000_Years_of_Loneliness.webp)
 
 !!! note
     The beginning of the Springvale Hunter's tragic fantasy journey. Where did misfortune first befall him? What marks the start and finish of the 1000-year journey of loneliness? Let this first volume of 1000 Years of Loneliness be your guide through the fantastical fog that is the life of Gothson.
