@@ -5,7 +5,7 @@ image: img/Book_Byakuyakoku.webp
 
 # The Byakuyakoku Collection
 
-![Book Image](../../img/Book_Byakuyakoku.webp)
+![Book Image](../../img/books/Inazuma/Byakuyakoku.webp)
 
 ## Vol. 1 - The Serpent and Drakes of Tokoyokoku
 

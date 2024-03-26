@@ -5,7 +5,7 @@ image: img/Book_Perinheri.webp
 
 # Perinheri  
 
-![Book image](../../img/Book_Perinheri.webp)
+![Book image](../../img/books/Fontaine/Perinheri.webp)
   
 ## Vol. 1  
 !!! note  
