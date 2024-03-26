@@ -22,6 +22,8 @@ nav:
   - 'Home': 'index.md'
   - 'Books':
     - 'books/index.md'
+    - 'Mondstadt':
+      - 'books/Mondstadt/Of_Mountains_and_Seas.md'
     - 'Inazuma':
       - 'books/Inazuma/The_Byakuyakoku_Collection.md'
     - 'Fontaine':
