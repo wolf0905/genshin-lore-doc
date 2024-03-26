@@ -1,3 +1,8 @@
+---
+title: A Drunkard's Tale
+image: img/books/Mondstadt/A_Drunkards_Tale.webp
+---
+
 # A Drunkard's Tale  
 
 ![Book Image](../../img/books/Mondstadt/A_Drunkards_Tale.webp)
