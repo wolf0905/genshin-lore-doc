@@ -1,6 +1,6 @@
 ---
 title: The Byakuyakoku Collection
-image: img/Book_Byakuyakoku.webp
+image: img/books/Inazuma/Byakuyakoku.webp
 ---
 
 # The Byakuyakoku Collection

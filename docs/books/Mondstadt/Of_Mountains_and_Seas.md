@@ -1,6 +1,6 @@
 ---
 title: "Of Mountains and Seas"
-image: img/Book_Of_Mountains_and_Seas.webp
+image: img/books/Mondstadt/Book_Of_Mountains_and_Seas.webp
 ---
 
 # "Of Mountains and Seas"

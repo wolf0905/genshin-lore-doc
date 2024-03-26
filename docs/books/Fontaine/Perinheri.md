@@ -1,6 +1,6 @@
 ---
 title: Perinheri
-image: img/Book_Perinheri.webp
+image: img/books/Fontaine/Perinheri.webp
 ---
 
 # Perinheri  
