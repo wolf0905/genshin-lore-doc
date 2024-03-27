@@ -9,6 +9,8 @@
     * [Ballads of the Squire](./Mondstadt/Ballads_of_the_Squire.md)
     * [Biography of Gunnhildr](./Mondstadt/Biography_of_Gunnhildr.md)
     * [Breeze Amidst the Forest](./Mondstadt/Breeze_Amidst_the_Forest.md)
+    * [Draft Hilichurl Ballads](./Mondstadt/Draft_Hilichurl_Ballads.md)
+    * [Gliding Instruction Manual](./Mondstadt/Gliding_Instruction_Manual.md)
 * **Inazuma**:
     * [The Byakuyakoku Collection](./Inazuma/The_Byakuyakoku_Collection.md)
 * **Fontaine**:
