@@ -6,6 +6,7 @@
     * [A Drunkard's Tale](./Mondstadt/A_Drunkards_Tale.md)
     * [Along with Divinity: Prologue](./Mondstadt/Along_with_Divinity_Prologue.md)
     * [Ancient Investigation Journal](./Mondstadt/Ancient_Investigation_Journal.md)
+    * [Ballads of the Squire](./Mondstadt/Ballads_of_the_Squire.md)
 * **Inazuma**:
     * [The Byakuyakoku Collection](./Inazuma/The_Byakuyakoku_Collection.md)
 * **Fontaine**:
