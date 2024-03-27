@@ -8,6 +8,7 @@
     * [Ancient Investigation Journal](./Mondstadt/Ancient_Investigation_Journal.md)
     * [Ballads of the Squire](./Mondstadt/Ballads_of_the_Squire.md)
     * [Biography of Gunnhildr](./Mondstadt/Biography_of_Gunnhildr.md)
+    * [Breeze Amidst the Forest](./Mondstadt/Breeze_Amidst_the_Forest.md)
 * **Inazuma**:
     * [The Byakuyakoku Collection](./Inazuma/The_Byakuyakoku_Collection.md)
 * **Fontaine**:
