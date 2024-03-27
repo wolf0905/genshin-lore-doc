@@ -7,6 +7,7 @@
     * [Along with Divinity: Prologue](./Mondstadt/Along_with_Divinity_Prologue.md)
     * [Ancient Investigation Journal](./Mondstadt/Ancient_Investigation_Journal.md)
     * [Ballads of the Squire](./Mondstadt/Ballads_of_the_Squire.md)
+    * [Biography of Gunnhildr](./Mondstadt/Biography_of_Gunnhildr.md)
 * **Inazuma**:
     * [The Byakuyakoku Collection](./Inazuma/The_Byakuyakoku_Collection.md)
 * **Fontaine**:
