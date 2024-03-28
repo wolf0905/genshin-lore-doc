@@ -15,6 +15,7 @@
     * [Heart of Clear Springs](./Mondstadt/Heart_of_Clear_Springs.md)
     * [Hilichurl Ballad Selection](./Mondstadt/Hilichurl_Ballad_Selection.md)
     * [Hilichurl Cultural Customs](./Mondstadt/Hilichurl_Cultural_Customs.md)
+    * [History of Kings and Clans: Prologue](./Mondstadt/History_of_Kings_and_Clans_-_Prologue.md)
 * **Inazuma**:
     * [The Byakuyakoku Collection](./Inazuma/The_Byakuyakoku_Collection.md)
 * **Fontaine**:
