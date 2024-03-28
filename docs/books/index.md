@@ -13,6 +13,8 @@
     * [Gliding Instruction Manual](./Mondstadt/Gliding_Instruction_Manual.md)
     * [Handy Handbook of Hilichurlian](./Mondstadt/Handy_Handbook_of_Hilichurlian.md)
     * [Heart of Clear Springs](./Mondstadt/Heart_of_Clear_Springs.md)
+    * [Hilichurl Ballad Selection](./Mondstadt/Hilichurl_Ballad_Selection.md)
+    * [Hilichurl Cultural Customs](./Mondstadt/Hilichurl_Cultural_Customs.md)
 * **Inazuma**:
     * [The Byakuyakoku Collection](./Inazuma/The_Byakuyakoku_Collection.md)
 * **Fontaine**:
