@@ -18,6 +18,7 @@
     * [History of Kings and Clans: Prologue](./Mondstadt/History_of_Kings_and_Clans_-_Prologue.md)
     * [Knights of Favonius Handbook - 5th Edition](./Mondstadt/Knights_of_Favonius_Handbook_-_5th_Edition.md)
     * [The Boar Princess](./Mondstadt/The_Boar_Princess.md)
+    * [The Fox in the Dandelion Sea](./Mondstadt/The_Fox_in_the_Dandelion_Sea.md)
 * **Inazuma**:
     * [The Byakuyakoku Collection](./Inazuma/The_Byakuyakoku_Collection.md)
 * **Fontaine**:
