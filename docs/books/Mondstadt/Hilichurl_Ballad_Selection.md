@@ -6,6 +6,8 @@ image: img/books/Mondstadt/Hilichurl_Ballad_Selection.webp
 # Hilichurl Ballad Selection
 
 ![Book Image](../../img/books/Mondstadt/Hilichurl_Ballad_Selection.webp)
+
+Author: **Jacob Musk**
   
 ## Vol. 1  
 

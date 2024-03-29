@@ -7,6 +7,8 @@ image: img/books/Mondstadt/Book_Of_Mountains_and_Seas.webp
 
 ![Book Image](../../img/books/Mondstadt/Book_Of_Mountains_and_Seas.webp)
 
+Author: **Leonard**
+
 !!! note
     Notes penned by Leonard, an adventurer from antiquity. Most ancient indeed. Mona has used her astrology to interpret its tattered contents and restore them.
 

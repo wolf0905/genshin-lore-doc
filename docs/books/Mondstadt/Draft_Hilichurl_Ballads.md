@@ -6,6 +6,8 @@ image: img/books/Mondstadt/Draft_Hilichurl_Ballads.webp
 # Draft Hilichurl Ballads  
 
 ![Book Image](../../img/books/Mondstadt/Draft_Hilichurl_Ballads.webp)
+
+Author: **Ella Musk**
   
 ## Vol. 1  
   

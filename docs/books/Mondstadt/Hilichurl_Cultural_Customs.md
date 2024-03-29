@@ -6,6 +6,8 @@ image: img/books/Mondstadt/Hilichurl_Cultural_Customs.webp
 # Hilichurl Cultural Customs
 
 ![Book Image](../../img/books/Mondstadt/Hilichurl_Cultural_Customs.webp)
+
+Author: **Jacob Musk**
   
 ## Vol. 1  
 

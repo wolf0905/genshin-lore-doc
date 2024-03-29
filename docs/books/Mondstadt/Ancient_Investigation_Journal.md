@@ -6,6 +6,8 @@ image: img/books/Mondstadt/Ancient_Investigation_Journal.webp
 # Ancient Investigation Journal  
 
 ![Book Image](../../img/books/Mondstadt/Ancient_Investigation_Journal.webp)
+
+Author: **Luther**
   
 ## Part 1  
 

@@ -2,6 +2,8 @@
 
 ![Book Image](../../img/books/Mondstadt/Handy_Handbook_of_Hilichurlian.webp)
 
+Author: **Ella Musk**
+
 !!! note
     A handbook of Hilichurlian written by the folklorist Ella Musk, though its practical use has yet to be tested in the field.
 
