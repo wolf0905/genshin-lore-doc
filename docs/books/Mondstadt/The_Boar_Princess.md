@@ -1,3 +1,8 @@
+---
+title: The Boar Princess
+image: img/books/Mondstadt/The_Boar_Princess.webp
+---
+
 # The Boar Princess
 
 ![Book Image](../../img/books/Mondstadt/The_Boar_Princess.webp)
