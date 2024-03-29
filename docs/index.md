@@ -9,3 +9,4 @@ hide:
 ## Main Sections
 
 * [Books](books/index.md)
+* [Notes](notes/index.md)

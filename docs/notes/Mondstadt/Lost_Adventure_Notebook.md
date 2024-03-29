@@ -1,6 +1,11 @@
+---
+title: Lost Adventure Notebook
+image: img/notes/Mondstadt/Lost_Adventure_Notebook.webp
+---
+
 # Lost Adventure Notebook
 
-![Book Image](../../img/books/Mondstadt/Lost_Adventure_Notebook.webp)
+![Notes Image](../../img/notes/Mondstadt/Lost_Adventure_Notebook.webp)
 
 !!! note
     A set of adventurer's notes that you picked in the ruins. It seems to contain a clue to unlocking these mechanisms.
