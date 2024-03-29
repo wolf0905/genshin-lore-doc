@@ -16,6 +16,7 @@
     * [Hilichurl Ballad Selection](./Mondstadt/Hilichurl_Ballad_Selection.md)
     * [Hilichurl Cultural Customs](./Mondstadt/Hilichurl_Cultural_Customs.md)
     * [History of Kings and Clans: Prologue](./Mondstadt/History_of_Kings_and_Clans_-_Prologue.md)
+    * [Knights of Favonius Handbook - 5th Edition](./Mondstadt/Knights_of_Favonius_Handbook_-_5th_Edition.md)
 * **Inazuma**:
     * [The Byakuyakoku Collection](./Inazuma/The_Byakuyakoku_Collection.md)
 * **Fontaine**:
