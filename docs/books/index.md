@@ -24,6 +24,8 @@
     * [The Pale Princess and the Six Pygmies](./Mondstadt/The_Pale_Princess_and_the_Six_Pygmies.md)
     * [Vera's Melancholy](./Mondstadt/Veras_Melancholy.md)
     * [Wind, Courage, and Wings](./Mondstadt/Wind_Courage_and_Wings.md)
+* **Liyue**:
+    * [Customs of Liyue](./Liyue/Customs_of_Liyue.md)
 * **Inazuma**:
     * [The Byakuyakoku Collection](./Inazuma/The_Byakuyakoku_Collection.md)
 * **Fontaine**:
