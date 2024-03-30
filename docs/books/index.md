@@ -26,6 +26,7 @@
     * [Wind, Courage, and Wings](./Mondstadt/Wind_Courage_and_Wings.md)
 * **Liyue**:
     * [Customs of Liyue](./Liyue/Customs_of_Liyue.md)
+    * [Humor From Tianheng](./Liyue/Humor_From_Tianheng.md)
 * **Inazuma**:
     * [The Byakuyakoku Collection](./Inazuma/The_Byakuyakoku_Collection.md)
 * **Fontaine**:
