@@ -20,6 +20,7 @@
     * [The Boar Princess](./Mondstadt/The_Boar_Princess.md)
     * [The Fox in the Dandelion Sea](./Mondstadt/The_Fox_in_the_Dandelion_Sea.md)
     * [The Legend of Vennessa](./Mondstadt/The_Legend_of_Vennessa.md)
+    * [The Mondstadt Tower](./Mondstadt/The_Mondstadt_Tower.md)
 * **Inazuma**:
     * [The Byakuyakoku Collection](./Inazuma/The_Byakuyakoku_Collection.md)
 * **Fontaine**:
