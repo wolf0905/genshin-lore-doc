@@ -27,6 +27,7 @@
 * **Liyue**:
     * [Customs of Liyue](./Liyue/Customs_of_Liyue.md)
     * [Humor From Tianheng](./Liyue/Humor_From_Tianheng.md)
+    * [Legend of the Lone Sword](./Liyue/Legend_of_the_Lone_Sword.md)
 * **Inazuma**:
     * [The Byakuyakoku Collection](./Inazuma/The_Byakuyakoku_Collection.md)
 * **Fontaine**:
