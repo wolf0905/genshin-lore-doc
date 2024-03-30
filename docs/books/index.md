@@ -22,6 +22,7 @@
     * [The Legend of Vennessa](./Mondstadt/The_Legend_of_Vennessa.md)
     * [The Mondstadt Tower](./Mondstadt/The_Mondstadt_Tower.md)
     * [The Pale Princess and the Six Pygmies](./Mondstadt/The_Pale_Princess_and_the_Six_Pygmies.md)
+    * [Vera's Melancholy](./Mondstadt/Veras_Melancholy.md)
 * **Inazuma**:
     * [The Byakuyakoku Collection](./Inazuma/The_Byakuyakoku_Collection.md)
 * **Fontaine**:
