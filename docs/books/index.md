@@ -31,6 +31,7 @@
     * [Legend of the Shattered Halberd](./Liyue/Legend_of_the_Shattered_Halberd.md)
     * [Linling's Anthology of Selected Poetry](./Liyue/Linling_Anthology.md)
     * [Meadow of Gems](./Liyue/Meadow_of_Gems.md)
+    * [Moonlit Bamboo Forest](./Liyue/Moonlit_Bamboo_Forest.md)
 * **Inazuma**:
     * [The Byakuyakoku Collection](./Inazuma/The_Byakuyakoku_Collection.md)
 * **Fontaine**:
