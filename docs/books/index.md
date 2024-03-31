@@ -29,6 +29,7 @@
     * [Humor From Tianheng](./Liyue/Humor_From_Tianheng.md)
     * [Legend of the Lone Sword](./Liyue/Legend_of_the_Lone_Sword.md)
     * [Legend of the Shattered Halberd](./Liyue/Legend_of_the_Shattered_Halberd.md)
+    * [Linling's Anthology of Selected Poetry](./Liyue/Linling_Anthology.md)
 * **Inazuma**:
     * [The Byakuyakoku Collection](./Inazuma/The_Byakuyakoku_Collection.md)
 * **Fontaine**:
