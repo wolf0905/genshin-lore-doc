@@ -33,6 +33,7 @@
     * [Meadow of Gems](./Liyue/Meadow_of_Gems.md)
     * [Moonlit Bamboo Forest](./Liyue/Moonlit_Bamboo_Forest.md)
     * [Records of Jueyun](./Liyue/Records_of_Jueyun.md)
+    * [Records of the Gallant](./Liyue/Records_of_the_Gallant.md)
 * **Inazuma**:
     * [The Byakuyakoku Collection](./Inazuma/The_Byakuyakoku_Collection.md)
 * **Fontaine**:
