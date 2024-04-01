@@ -34,6 +34,7 @@
     * [Moonlit Bamboo Forest](./Liyue/Moonlit_Bamboo_Forest.md)
     * [Records of Jueyun](./Liyue/Records_of_Jueyun.md)
     * [Records of the Gallant](./Liyue/Records_of_the_Gallant.md)
+    * [Rex Incognito](./Liyue/Rex_Incognito.md)
 * **Inazuma**:
     * [The Byakuyakoku Collection](./Inazuma/The_Byakuyakoku_Collection.md)
 * **Fontaine**:
