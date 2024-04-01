@@ -24,10 +24,13 @@ Two broad-sword-wielding Martial Artists in Weiyang's party burst out laughing. 
 The waiter, Qin, stared intently at Weiyang's crimson-colored cheeks before suddenly declaring: "You're a woman! A female officer disguised as a man!" The claim was accentuated with a prod of his finger.  
 "An astute observation," came the response from one of the martial artists. "She is in fact the Secretary of Ceremonies. The two of us are military officers. One from the Imperial Guards, the other from the Imperial Escorts, both versed in polearm and sword. We are serving the office of the Imperial Grand Minister on secondment, and we are here under orders to retrieve the Ominous Swords."  
 "Although the part about the Great and Glorious Gen... General, haha... Although that's made up, the bit about being here on official court... uh, business is not," the other Martial Artist chimed in to say.  
+
 The Ominous Swords were something that Mir had heard of. The story was that an iron meteorite had fallen from the sky five or six years ago, and convention dictated that as nature's treasure it belonged to the imperial family. However, a swordsmith by the name of Feng had taken it for himself and used it to illegally cast nine swords. It was said that the Ominous Swords were cursed by the meteorite and could drain people's intellect. Naturally, they had caused quite the stir in martial artists' circles.  
+
 "Good for you," said Mir as he shut the toilet door.  
 "It'd be even better for me if you got yourself out from that toilet... now!" Her disguise exposed, Weiyang gave up trying to compose herself and spoke in her normal voice. She sounded more charming than one would expect, given the circumstances.  
 "Officer Weiyang is a cultured lady of the court. Unlike us, she cannot resolve her pressing official business by simply finding a discrete spot in the wild. Please, hurry up!"  
+
 Mir washed his hands and exited the toilet, then sat down at the table with the two Martial Artists.  
 "It is not at every border town that we encounter one so familiar with court affairs." The one that seems to be the Imperial Escort officer sizes up Mir. "Might I inquire as to your personal history?"  
 "My father, Mi Tingren, was Minister of Imperial Banquets. He was framed for embezzlement of funds intended for the imperial cuisine. He then resigned from his post and returned home." Mir paused to scratch his chin before continuing, "My old man's not been himself ever since it happened. I still intend to go back to the court one day and clear the Mi family name."  
@@ -44,9 +47,11 @@ Now that the spirit had possessed her body, Weiyang was of a much sweeter and ge
 "And what's your place in all of this?"  
 "I was once the daughter of the Celestial Emperor. But I have long forgotten my name. I was in charge of conducting trials and sentencing at the end — a judge, to use your parlance."  
 Since the Court of Imperial Entertainments was responsible for sacrifices and offerings, Mir's father had forced him to learn every last detail and word uttered in every known court ritual. And because most rituals involved encounters with bizarre forces and temperamental deities, he also knew a thing or two about how to deal with them. For instance, he knew that deities tended to guard their names closely, for knowledge of a deity's true name allows a human being to exercise absolute control over them. So he wasn't convinced this one had simply forgotten her name.  
+
 "So the court wants to retrieve the swords to reconstruct the Divine Halberd?" Mir forced himself to entertain the reasonability of this line of inquiry.  
 "I don't know. The master of this body knows nothing else. She is just... deeply angry. She wants to prove herself." Weiyang puts her hands on her chest.  
 "So what's the next step? Do I have to perform some sort of farewell ceremony for you?" Mir stroked the bandaged and sightless eye. "And then do I get my eye back?"  
+
 "Give me a name." She raised her head, oblivious to the crumbs at the edges of her mouth.  
 "Don't be ridiculous. The imperial civil service examinations are overseen in person by the Emperor himself. How will I claim the title of Minister of Imperial Banquets with only one eye?"  
 "Well, I have things to reclaim too: the remaining pieces of the Divine Halberd," she responded. "Otherwise, this world and everything in it is going to burn in hellfire."  
@@ -67,6 +72,7 @@ Mir sighed, took the chopsticks from her hand, and said, "Fine, I'll feed you."
 "The Court of Imperial Entertainments is dedicated to worshiping and making sacrifices to all of you divine beings up above. Serving you is my family's job."  
 And in any case, when the gods make their move, what can mere mortals do but look on helplessly and accept their fate?  
 — At least, that's what Mir thought. But he also thought it was better to keep that part to himself.  
+
 "Couldn't you use your powers, though? I thought you said that each time you fight a Ominous Sword owner, you use telekinesis to make your polearm levitate, swing your sword around, and so on. Surely chopsticks can't be any harder?"  
 "That is a power bestowed upon me by my father. Only I have this power. It is solely for use in sentencing the guilty. I mustn't..." Weiyang's voice changed in tone. "I mustn't use it lightly."  
 "Before he died, that guy said something really strange about the situation with my father." Mir flicked the candle flame while he spoke to relieve his boredom. "'Minister Mi was neither innocent, nor wrongly accused.' What on earth did he mean by that?"  
@@ -94,9 +100,11 @@ Her sight grew blurry as she lost blood. Mir stepped in front of her, guarding h
 "I can see that you have a lot of questions. Fine, I'll tell you everything! I killed your father because he tried to stop the resurrection of the God King. And the reason I can manipulate the fire realm runes rather than the other way round is because..."  
 The warrior from the east raised the Ominous Sword. "Is because I am a warrior of Hunt From Above made flesh..."  
 Legend has it that the Celestial Emperor once went to war with the Asura. To prepare for the war, the Celestial Emperor selected soldiers from three realms and made them ascend to become his celestial army after death. Sometimes, they were beset by inclement weather on the marsh, with thundercloud tornadoes surrounding them. The people of Zhongzhou referred to it as the soldiers of the celestial army "hunting from above."  
+
 "No... Impossible!" A look of disbelief appeared on the warrior's face as the Ominous Sword broke into pieces, and he, too, was sent flying from his own shoulders towards whatever destiny had in store for him next.  
 In the chaos, Mir had brought out the sword his father had left him as inheritance. It was intended as more of a gesture of defiance than a genuine attempt to fight back. But unbeknownst to him, this was the greatest cursed sword of all, that had once burned the entire world to cinders: Laevatain. If the fire-realm runes constituted the mystery of the fire realm, Laevatain was its pure, unadulterated, unquenchable reality.  
 The sword had extinguished after the world was burned, but having assimilated the rune of the fire realm, it burned bright once more.  
+
 "The whole world... destroyed again..." Weiyang fell unconscious as she spoke.  
   
 ## Vol. 5 - Legacy of a Goddess
@@ -124,6 +132,7 @@ The crown prince said nothing.
 "Oh, for the meritorious act of retrieving the swords, she was promoted to Secretary of Ceremonies. She was not implicated in the evil plot by her father, the Imperial Grand Minister. The Minister of Ceremonies and the Grand Secretary both testified. I will see her every need is met."  
 Something sounded odd about that.  
 But that was fine.  
+
 She was gone, and his eye was restored. But to this day there was still a dull ache, like the phantom pain of a missing limb.  
   
 ## Vol. 6 - Nothingness
@@ -135,15 +144,24 @@ She was gone, and his eye was restored. But to this day there was still a dull a
     "No. No apologies necessary, for you are benevolent."  
 
 "Oh my daughter, the one in whom all my hopes are placed! Did I not bring you into existence that you might one day pierce me with a halberd?" Awakened at last, the God King floated in the heavens to the claps of thunder and the dancing of the wind, rejoicing at his return.  
+
 But she was no longer afraid. This was the moment she had been waiting for her entire life, the moment she had been made for all those eons ago.  
 No — that was not it. The true source of her courage was the time she had spent with him.  
+
 The first Divine Halberd, Irmin, once pierced the Axis Mundi and connected the nine worlds. Now, its replicas had proliferated across the heavens.  
+
 Fearing the madness that would ensue following his death, the God King made one final Divine Halberd, and named it the Prinzessin der Verurteilung. In this moment, it — nay, she — could finally unleash her true self.  
+
 ...  
+
 A commentary from the editor appears at the end of the book:  
+
 Legend of the Shattered Halberd was a successful first attempt by Inazuma's Yae Publishing House to incorporate elements of Liyue culture in one of their novels. The first five volumes were wildly successful, becoming something of a cultural phenomenon in both Inazuma and Liyue. Commercially, the fact that a sixth volume exists at all speaks to its success.  
 I trust that the abrupt finale to this epic saga brought by volume six will not be to our readers' displeasure.  
 I hope.  
+
 Though the ending reads like a different story entirely, I must stress that this did not arise from any attempt on our part to pressurize Mr. Nine, the author, into developing material for a new series. The truth is that in his rush to meet the publishing schedule, Mr. Nine ended up diverging somewhat from his usual style. Mr. Nine simply wished to challenge himself as a writer. ♡  
+
 Naturally, we are sympathetic to the fans of the original First Five volumes. In this spirit, we would like to announce that a special First Five collector's edition, the Blackwood Box Set, is currently in the making. Those who have grown up reading Legend of the Shattered Halberd in bookstores: this is the time to finally buy it for yourself! Also, expect to hear more tales of the Prinzessin der Verurteilung in future.  
+
 Chief Editor, Yae Publishing House
