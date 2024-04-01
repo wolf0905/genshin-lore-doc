@@ -32,6 +32,7 @@
     * [Linling's Anthology of Selected Poetry](./Liyue/Linling_Anthology.md)
     * [Meadow of Gems](./Liyue/Meadow_of_Gems.md)
     * [Moonlit Bamboo Forest](./Liyue/Moonlit_Bamboo_Forest.md)
+    * [Records of Jueyun](./Liyue/Records_of_Jueyun.md)
 * **Inazuma**:
     * [The Byakuyakoku Collection](./Inazuma/The_Byakuyakoku_Collection.md)
 * **Fontaine**:
