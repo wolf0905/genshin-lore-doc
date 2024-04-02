@@ -36,6 +36,7 @@
     * [Records of the Gallant](./Liyue/Records_of_the_Gallant.md)
     * [Rex Incognito](./Liyue/Rex_Incognito.md)
     * [Stone Tablet Compilations: Vol. I](./Liyue/Stone_Tablet_Compilations_-_Vol._I.md)
+    * [String of Pearls](./Liyue/String_of_Pearls.md)
 * **Inazuma**:
     * [The Byakuyakoku Collection](./Inazuma/The_Byakuyakoku_Collection.md)
 * **Fontaine**:
