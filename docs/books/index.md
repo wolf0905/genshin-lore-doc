@@ -37,6 +37,7 @@
     * [Rex Incognito](./Liyue/Rex_Incognito.md)
     * [Stone Tablet Compilations: Vol. I](./Liyue/Stone_Tablet_Compilations_-_Vol._I.md)
     * [String of Pearls](./Liyue/String_of_Pearls.md)
+    * [Tales From the Waves](./Liyue/Tales_From_the_Waves.md)
 * **Inazuma**:
     * [The Byakuyakoku Collection](./Inazuma/The_Byakuyakoku_Collection.md)
 * **Fontaine**:
