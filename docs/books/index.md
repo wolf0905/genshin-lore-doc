@@ -43,5 +43,6 @@
 * **Inazuma**:
     * [The Byakuyakoku Collection](./Inazuma/The_Byakuyakoku_Collection.md)
     * [A Legend of Sword](./Inazuma/A_Legend_of_Sword.md)
+    * [A Preliminary Study of Sangonomiya Folk Belief](./Inazuma/A_Preliminary_Study_of_Sangonomiya_Folk_Belief.md)
 * **Fontaine**:
     * [Perinheri](./Fontaine/Perinheri.md)
