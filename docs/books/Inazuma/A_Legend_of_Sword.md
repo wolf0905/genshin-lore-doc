@@ -7,8 +7,8 @@ image: img/books/Inazuma/A_Legend_of_Sword.webp
 
 ![Book Image](../../img/books/Inazuma/A_Legend_of_Sword.webp)
 
-Author: &nbsp; &nbsp; &nbsp; &nbsp;**Zhenyu** (pen name of **Xingqiu**)  
-Illustrator: &nbsp; **Calx** (pen name of **Albedo**)
+Author: &nbsp; &nbsp; &nbsp;**Zhenyu** (pen name of **Xingqiu**)  
+Illustrator: **Calx** (pen name of **Albedo**)
   
 ## Vol. 1
 
