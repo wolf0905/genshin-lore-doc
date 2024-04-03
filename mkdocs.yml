@@ -73,6 +73,8 @@ nav:
   - 'About': 'about.md'
 markdown_extensions:
   - admonition
+  - toc:
+      permalink: true
 extra_css:
   - stylesheets/extra.css
 extra:
