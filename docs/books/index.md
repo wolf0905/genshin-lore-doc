@@ -39,6 +39,7 @@
     * [String of Pearls](./Liyue/String_of_Pearls.md)
     * [Tales From the Waves](./Liyue/Tales_From_the_Waves.md)
     * [Verses of Equilibrium](./Liyue/Verses_of_Equilibrium.md)
+    * [Yakshas: The Guardian Adepti](./Liyue/Yakshas_The_Guardian_Adepti.md)
 * **Inazuma**:
     * [The Byakuyakoku Collection](./Inazuma/The_Byakuyakoku_Collection.md)
 * **Fontaine**:
