@@ -42,5 +42,6 @@
     * [Yakshas: The Guardian Adepti](./Liyue/Yakshas_The_Guardian_Adepti.md)
 * **Inazuma**:
     * [The Byakuyakoku Collection](./Inazuma/The_Byakuyakoku_Collection.md)
+    * [A Legend of Sword](./Inazuma/A_Legend_of_Sword.md)
 * **Fontaine**:
     * [Perinheri](./Fontaine/Perinheri.md)
