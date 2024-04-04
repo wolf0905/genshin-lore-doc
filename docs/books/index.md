@@ -47,5 +47,6 @@
     * [Debates on the “Viceroy of the East”](./Inazuma/Debates_on_the_Viceroy_of_the_East.md)
     * [Flowers for Princess Fischl](./Inazuma/Flowers_for_Princess_Fischl.md)
     * [Let’s Go, Dodoco!](./Inazuma/Lets_Go_Dodoco.md)
+    * [New Chronicles of the Six Kitsune](./Inazuma/New_Chronicles_of_the_Six_Kitsune.md)
 * **Fontaine**:
     * [Perinheri](./Fontaine/Perinheri.md)
