@@ -56,5 +56,6 @@
     * [Shogun Almighty: Reborn as Raiden With Unlimited Power](./Inazuma/Shogun_Almighty_Reborn_as_Raiden_With_Unlimited_Power.md)
     * [The Life of Mouun the Shrine Maiden](./Inazuma/The_Life_of_Mouun_the_Shrine_Maiden.md)
     * [Toki Alley Tales](./Inazuma/Toki_Alley_Tales.md)
+    * [Treasured Tales of the Chouken Shinkageuchi](./Inazuma/Treasured_Tales_of_the_Chouken_Shinkageuchi.md)
 * **Fontaine**:
     * [Perinheri](./Fontaine/Perinheri.md)
