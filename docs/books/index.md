@@ -53,5 +53,6 @@
     * [Princess Mina of the Fallen Nation](./Inazuma/Princess_Mina_of_the_Fallen_Nation.md)
     * [Sacred Sakura Cleansing Summary](./Inazuma/Sacred_Sakura_Cleansing_Summary.md)
     * [Sangonomiya Chronicles](./Inazuma/Sangonomiya_Chronicles.md)
+    * [Shogun Almighty: Reborn as Raiden With Unlimited Power](./Inazuma/Shogun_Almighty_Reborn_as_Raiden_With_Unlimited_Power.md)
 * **Fontaine**:
     * [Perinheri](./Fontaine/Perinheri.md)
