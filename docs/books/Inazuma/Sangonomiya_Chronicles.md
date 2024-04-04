@@ -7,6 +7,8 @@ image: img/books/Inazuma/Sangonomiya_Chronicles.webp
 
 ![Book Image](../../img/books/Inazuma/Sangonomiya_Chronicles.webp)
 
+Author: **Kujou Michizane**
+
 !!! note
     Historical annals written by the famous Shogunate historian Kujou Michizane, who was known as one of the "The Three Kujou Dignitaries," or "The Great Calligrapher." It chronicles the history of Watatsumi Island in broad strokes.
 
