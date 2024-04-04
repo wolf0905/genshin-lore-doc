@@ -5,9 +5,9 @@ image: img/books/Inazuma/Byakuyakoku.webp
 
 # The Byakuyakoku Collection
 
-![Book Image](../../img/books/Inazuma/Byakuyakoku.webp)
-
 ## Vol. 1 - The Serpent and Drakes of Tokoyokoku
+
+![Volume 1's cover image](../../img/books/Inazuma/The_Serpent_and_Drakes_of_Tokoyokoku.webp)
 
 !!! note
     A novel based on Watatsumi Island's folktales. The original edition of this text was transcribed on Watatsumi Island and brought back to Narukami Island by a merchant while the former's serpent god yet lived. No one reads this ancient tome nowadays, its role supplanted by all the light novels on the market. This book describes the unique cosmological outlook of the Watatsumi people before they came to adopt aspects of Narukami culture, and a recent resurgence in traditional novel publishing has allowed it to see the light of day once more.
@@ -37,6 +37,8 @@ Unnumbered years would pass before a young child of Enkanomiya would make a wage
 Thus did they, human and serpent, go forth to face the royal authority of the Sunchild and the incursions of the Dragonheirs beyond — thus was the curtain raised on the turning of the tide.
 
 ## Vol. 2 - Before Sun and Moon
+
+![Volume 2's cover image](../../img/books/Inazuma/Byakuyakoku.webp)
 
 !!! note
     A chronicle that ordinary folk have been forbidden to read. The writing is a mix of fables and histories from the beginning of the world to the creation of the Dainichi Mikoshi.
@@ -114,6 +116,8 @@ Hark, I hear armor without. Here, I shall stop writing.
 
 ## Vol. 3 - Hydrological Studies in Byakuyakoku
 
+![Volume 3's cover image](../../img/books/Inazuma/Byakuyakoku.webp)
+
 !!! note
     This text records the geography and hydrology of Byakuyakoku. With the sealing of the depths and the emigration of the people of Watatsumi, as well as the passing of long years, this book is now useless.
 
@@ -145,6 +149,8 @@ According to prophecy, this was likely the sun that the sage displayed, used to 
 
 ## Vol. 4 - Bathysmal Vishap Experimental Records
 
+![Volume 4's cover image](../../img/books/Inazuma/Byakuyakoku.webp)
+
 !!! note
     Experimental Records of the Bathysmal Vishaps. No vishaps were killed in the writing of these records.
 
@@ -171,6 +177,8 @@ The grafting can be considered a success. ("Void-907-Watatsumi Omikami's Special
 All experimental logs are closed. No experiment conducted here resulted in the death of any Dragonheirs — they all lived to see the end of their days. Praise be to Watatsumi Omikami, gracious and beneficent.
 
 ## Vol. 5 - In the Light, Beneath the Shadow
+
+![Volume 5's cover image](../../img/books/Inazuma/Byakuyakoku.webp)
 
 !!! note
     A puzzle book for children of ages nine to twelve. As a book from a transitory period, it uses Narukami-style names with Byakuyakoku subscripts.
