@@ -45,5 +45,6 @@
     * [A Legend of Sword](./Inazuma/A_Legend_of_Sword.md)
     * [A Preliminary Study of Sangonomiya Folk Belief](./Inazuma/A_Preliminary_Study_of_Sangonomiya_Folk_Belief.md)
     * [Debates on the “Viceroy of the East”](./Inazuma/Debates_on_the_Viceroy_of_the_East.md)
+    * [Flowers for Princess Fischl](./Inazuma/Flowers_for_Princess_Fischl.md)
 * **Fontaine**:
     * [Perinheri](./Fontaine/Perinheri.md)
