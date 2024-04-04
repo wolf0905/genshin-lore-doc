@@ -52,5 +52,6 @@
     * [Pretty Please, Kitsune Guuji?](./Inazuma/Pretty_Please_Kitsune_Guuji.md)
     * [Princess Mina of the Fallen Nation](./Inazuma/Princess_Mina_of_the_Fallen_Nation.md)
     * [Sacred Sakura Cleansing Summary](./Inazuma/Sacred_Sakura_Cleansing_Summary.md)
+    * [Sangonomiya Chronicles](./Inazuma/Sangonomiya_Chronicles.md)
 * **Fontaine**:
     * [Perinheri](./Fontaine/Perinheri.md)
