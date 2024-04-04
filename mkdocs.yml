@@ -68,6 +68,7 @@ nav:
       - 'books/Inazuma/A_Preliminary_Study_of_Sangonomiya_Folk_Belief.md'
       - 'books/Inazuma/Debates_on_the_Viceroy_of_the_East.md'
       - 'books/Inazuma/Flowers_for_Princess_Fischl.md'
+      - 'books/Inazuma/Lets_Go_Dodoco.md'
     - 'Fontaine':
       - 'books/Fontaine/Perinheri.md'
   - 'Notes':
@@ -79,6 +80,7 @@ markdown_extensions:
   - admonition
   - toc:
       permalink: true
+  - attr_list
 extra_css:
   - stylesheets/extra.css
 extra:
