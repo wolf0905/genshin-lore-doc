@@ -54,5 +54,6 @@
     * [Sacred Sakura Cleansing Summary](./Inazuma/Sacred_Sakura_Cleansing_Summary.md)
     * [Sangonomiya Chronicles](./Inazuma/Sangonomiya_Chronicles.md)
     * [Shogun Almighty: Reborn as Raiden With Unlimited Power](./Inazuma/Shogun_Almighty_Reborn_as_Raiden_With_Unlimited_Power.md)
+    * [The Life of Mouun the Shrine Maiden](./Inazuma/The_Life_of_Mouun_the_Shrine_Maiden.md)
 * **Fontaine**:
     * [Perinheri](./Fontaine/Perinheri.md)
