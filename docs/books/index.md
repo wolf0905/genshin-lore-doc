@@ -50,5 +50,6 @@
     * [New Chronicles of the Six Kitsune](./Inazuma/New_Chronicles_of_the_Six_Kitsune.md)
     * [Onibudou](./Inazuma/Onibudou.md)
     * [Pretty Please, Kitsune Guuji?](./Inazuma/Pretty_Please_Kitsune_Guuji.md)
+    * [Princess Mina of the Fallen Nation](./Inazuma/Princess_Mina_of_the_Fallen_Nation.md)
 * **Fontaine**:
     * [Perinheri](./Fontaine/Perinheri.md)
