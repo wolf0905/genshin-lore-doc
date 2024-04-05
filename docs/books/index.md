@@ -59,5 +59,6 @@
     * [Treasured Tales of the Chouken Shinkageuchi](./Inazuma/Treasured_Tales_of_the_Chouken_Shinkageuchi.md)
 * **Sumeru**:
     * [A Thousand Nights](./Sumeru/A_Thousand_Nights.md)
+    * [An Ode to Khvarena](./Sumeru/An_Ode_to_Khvarena.md)
 * **Fontaine**:
     * [Perinheri](./Fontaine/Perinheri.md)
