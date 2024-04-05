@@ -57,5 +57,7 @@
     * [The Life of Mouun the Shrine Maiden](./Inazuma/The_Life_of_Mouun_the_Shrine_Maiden.md)
     * [Toki Alley Tales](./Inazuma/Toki_Alley_Tales.md)
     * [Treasured Tales of the Chouken Shinkageuchi](./Inazuma/Treasured_Tales_of_the_Chouken_Shinkageuchi.md)
+* **Sumeru**:
+    * [A Thousand Nights](./Sumeru/A_Thousand_Nights.md)
 * **Fontaine**:
     * [Perinheri](./Fontaine/Perinheri.md)
