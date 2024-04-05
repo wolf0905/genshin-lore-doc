@@ -62,5 +62,6 @@
     * [An Ode to Khvarena](./Sumeru/An_Ode_to_Khvarena.md)
     * [Rene's Investigation Notes](./Sumeru/Renes_Investigation_Notes.md)
     * [Scroll of Streaming Song](./Sumeru/Scroll_of_Streaming_Song.md)
+    * [The Folio of Foliage](./Sumeru/The_Folio_of_Foliage.md)
 * **Fontaine**:
     * [Perinheri](./Fontaine/Perinheri.md)
