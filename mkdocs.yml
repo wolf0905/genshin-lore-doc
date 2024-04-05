@@ -2,6 +2,7 @@ site_name: Genshin Lore Docs
 site_url: https://wolf0905.github.io/genshin-lore-doc/
 theme:
   name: material
+  favicon: 'img/Nahida_ico.ico'
   custom_dir: overrides
   features:
    - navigation.tabs
