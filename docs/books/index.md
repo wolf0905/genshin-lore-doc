@@ -60,5 +60,6 @@
 * **Sumeru**:
     * [A Thousand Nights](./Sumeru/A_Thousand_Nights.md)
     * [An Ode to Khvarena](./Sumeru/An_Ode_to_Khvarena.md)
+    * [Rene's Investigation Notes](./Sumeru/Renes_Investigation_Notes.md)
 * **Fontaine**:
     * [Perinheri](./Fontaine/Perinheri.md)
