@@ -69,3 +69,4 @@
     * [The Tale of Shiruyeh and Shirin](./Sumeru/The_Tale_of_Shiruyeh_and_Shirin.md)
 * **Fontaine**:
     * [Perinheri](./Fontaine/Perinheri.md)
+    * [Fables de Fontaine](./Fontaine/Fables_de_Fontaine.md)
