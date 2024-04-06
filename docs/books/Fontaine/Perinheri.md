@@ -48,10 +48,12 @@ The witch, Angelica, explained thus: "Hleobrant is the descendant of those who f
 The sun rose over the horizon at that moment, and Perinheri's blade slipped from his fingers, exhausted from the night-long battle. Covering his forehead with the back of his hand, he looked upon the sun for the first time. And when he glanced back at Angelica, he saw that she was neither a beautiful woman from Liyue nor a wicked witch.  
 "I am freedom, that which has broken free of fate. This is what Hleobrant sought in agony, but that which is now yours for the taking."  
 There was nothing before Perinheri, only vast, empty land.  
-  
+<br>
+
 Note 1: Note that the ancient people of Liyue did not use such names. Now that I consider it, her name may have been "Lady Miaoyin" (Lady of Wondrous Sound) or "Tianwang Nu" (Servant of Tianwang).  
 Note 2: The black wolves of the first edition. Archaeological work on Khaenri'ah indicates that this must have been a type of warbeast created using alchemy. Alchemy and the Beastmaster Knights were a mainstay during the Crimson Moon Dynasty, but interest in mechanical engineering during the Eclipse Dynasty would cause it to fall behind.  
-  
+<br>
+
 Special thanks goes to:  
 Mr. Denon's archaeological studies into Khaenri'ah, which inspired this work (1st edition)  
 Mr. Jean Figeac's continued writings and refinements, which have given this story its ending (2nd edition)  
