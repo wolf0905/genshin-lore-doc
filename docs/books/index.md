@@ -65,5 +65,6 @@
     * [The Folio of Foliage](./Sumeru/The_Folio_of_Foliage.md)
     * [The Lay of Al-Ahmar](./Sumeru/The_Lay_of_Al-Ahmar.md)
     * [The Saga of Hamavaran](./Sumeru/The_Saga_of_Hamavaran.md)
+    * [The Shepherd and the Magic Bottle](./Sumeru/The_Shepherd_and_the_Magic_Bottle.md)
 * **Fontaine**:
     * [Perinheri](./Fontaine/Perinheri.md)
