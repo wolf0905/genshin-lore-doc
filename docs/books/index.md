@@ -66,5 +66,6 @@
     * [The Lay of Al-Ahmar](./Sumeru/The_Lay_of_Al-Ahmar.md)
     * [The Saga of Hamavaran](./Sumeru/The_Saga_of_Hamavaran.md)
     * [The Shepherd and the Magic Bottle](./Sumeru/The_Shepherd_and_the_Magic_Bottle.md)
+    * [The Tale of Shiruyeh and Shirin](./Sumeru/The_Tale_of_Shiruyeh_and_Shirin.md)
 * **Fontaine**:
     * [Perinheri](./Fontaine/Perinheri.md)
