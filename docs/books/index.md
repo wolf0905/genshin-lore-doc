@@ -64,5 +64,6 @@
     * [Scroll of Streaming Song](./Sumeru/Scroll_of_Streaming_Song.md)
     * [The Folio of Foliage](./Sumeru/The_Folio_of_Foliage.md)
     * [The Lay of Al-Ahmar](./Sumeru/The_Lay_of_Al-Ahmar.md)
+    * [The Saga of Hamavaran](./Sumeru/The_Saga_of_Hamavaran.md)
 * **Fontaine**:
     * [Perinheri](./Fontaine/Perinheri.md)
