@@ -73,3 +73,4 @@
     * [La Chanson d’Erinnyes](./Fontaine/La_Chanson_dErinnyes.md)
     * [Robben versus Chesterton: Iridescent Brooch](./Fontaine/Robben_versus_Chesterton_Iridescent_Brooch.md)
     * [Tales of a Snow-Winged Goose](./Fontaine/Tales_of_a_Snow-Winged_Goose.md)
+    * [The Fall of the Faded Castle](./Fontaine/The_Fall_of_the_Faded_Castle.md)
