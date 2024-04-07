@@ -69,6 +69,7 @@
     * [The Tale of Shiruyeh and Shirin](./Sumeru/The_Tale_of_Shiruyeh_and_Shirin.md)
 * **Fontaine**:
     * [Perinheri](./Fontaine/Perinheri.md)
+    * [Book of Revealing](./Fontaine/Book_of_Revealing.md)
     * [Fables de Fontaine](./Fontaine/Fables_de_Fontaine.md)
     * [La Chanson d’Erinnyes](./Fontaine/La_Chanson_dErinnyes.md)
     * [Robben versus Chesterton: Iridescent Brooch](./Fontaine/Robben_versus_Chesterton_Iridescent_Brooch.md)
