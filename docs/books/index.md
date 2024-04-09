@@ -80,3 +80,4 @@
     * [Time Trekker](./Fontaine/Time_Trekker.md)
 * **Multiregional**:
     * [Teyvat Travel Guide](./Multiregional/Teyvat_Travel_Guide.md)
+    * [Diary of Roald the Adventurer](./Multiregional/Diary_of_Roald_the_Adventurer.md)
