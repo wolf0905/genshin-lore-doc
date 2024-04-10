@@ -6,6 +6,8 @@ image: img/books/Multiregional/Diary_of_Roald_the_Adventurer.webp
 # Diary of Roald the Adventurer
 
 ![Book Image](../../img/books/Multiregional/Diary_of_Roald_the_Adventurer.webp)
+
+Author: **Roald**
   
 ## Dragonspine
 

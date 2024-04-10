@@ -7,6 +7,8 @@ image: img/books/Multiregional/King_of_Invokations.webp
 
 ![Book Image](../../img/books/Multiregional/King_of_Invokations.webp)
 
+Author: **Fukumoto**
+
 !!! note
     A light novel centered around the most popular card game in Teyvat — Genius Invokation TCG. The characters are unique and the story is exciting and full of twists, making it one of the hottest new works around.
   

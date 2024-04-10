@@ -6,6 +6,8 @@ image: img/books/Multiregional/Teyvat_Travel_Guide.webp
 # Teyvat Travel Guide
 
 ![Book Image](../../img/books/Multiregional/Teyvat_Travel_Guide.webp)
+
+Author: **Alice**
   
 ## Mondstadt Chapter
 
