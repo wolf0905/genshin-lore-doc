@@ -84,3 +84,4 @@
     * [Heart's Desire](./Multiregional/Hearts_Desire.md)
     * [Hex & Hound](./Multiregional/Hex_and_Hound.md)
     * [King of Invokations](./Multiregional/King_of_Invokations.md)
+    * [Someone’s Diary](./Multiregional/Someones_Diary.md)
