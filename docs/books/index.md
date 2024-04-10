@@ -82,3 +82,4 @@
     * [Teyvat Travel Guide](./Multiregional/Teyvat_Travel_Guide.md)
     * [Diary of Roald the Adventurer](./Multiregional/Diary_of_Roald_the_Adventurer.md)
     * [Heart's Desire](./Multiregional/Hearts_Desire.md)
+    * [Hex & Hound](./Multiregional/Hex_and_Hound.md)
